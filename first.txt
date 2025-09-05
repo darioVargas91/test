@@ -1,4 +1,11 @@
 Testing in first line
 Testing in second line
 guardado en stash 2
-Testing in 3ro line
+guardado en stash 3
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
+
+=======
+>>>>>>> Stashed changes
+=======
+>>>>>>> Stashed changes
