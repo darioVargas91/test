@@ -12,11 +12,12 @@ Tengo hambre vamo a comer
 
  Quiero comer conchitas asadas, esta genial lo que estoy aprendiendo
 
-<<<<<<< Updated upstream
+ Y yo quiero comer algo masssss
 
  Y yo quiero comer algo masssss
 
 
+Tareas Stash.....................
 ////////////////////// tarea stash dario
 Cambio 1 Bri de muhcas lineas no se puede borrar:
 mo 
@@ -24,11 +25,8 @@ di ficada d\
 mamacita
 ////////////////////////
 
-=======
- Y yo quiero comer algo masssss
 
-
- /////////////////seguda tarea
+*********************seguda tarea Bri
  En el metro de quito las personas deben respetar las paradas y no comer dentro del metro, además acatar todas las ordenes
- ////////////////
->>>>>>> Stashed changes
+ ***********************************
+
