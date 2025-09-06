@@ -12,6 +12,7 @@ Tengo hambre vamo a comer
 
  Quiero comer conchitas asadas, esta genial lo que estoy aprendiendo
 
+<<<<<<< Updated upstream
 
  Y yo quiero comer algo masssss
 
@@ -23,3 +24,11 @@ di ficada d\
 mamacita
 ////////////////////////
 
+=======
+ Y yo quiero comer algo masssss
+
+
+ /////////////////seguda tarea
+ En el metro de quito las personas deben respetar las paradas y no comer dentro del metro, además acatar todas las ordenes
+ ////////////////
+>>>>>>> Stashed changes
